@@ -5,14 +5,39 @@ html {
 
 
 h1 {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: left;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: left;
+}
+
+/*footer for now*/
+h4{
+  font-size: 25px;
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+h5 {
   font-size: 60px;
   text-align: center;
 }
+
 
 p, li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
+  margin-top: 0px;
 }
 
 
@@ -32,5 +57,19 @@ h1 {
   margin: 0;
   padding: 20px 0;
   color: #ba2d0b;
-  text-shadow: 3px 3px 1px black;
+  text-shadow: 2px 2px 1px black;
+}
+
+h2 {
+  margin: 0;
+  padding: 20px 0;
+  color: #ba2d0b;
+  text-shadow: 1px 1px 1px black;
+}
+
+h4 {
+  margin: 0;
+  padding: 20px 0;
+  color: #ba2d0b;
+  text-shadow: 1px 1px 1px black;
 }
